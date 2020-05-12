@@ -4,6 +4,8 @@ class Person
     @name = person_name
   end
   
+  def
+  
   # GETTERS
   def name
     @name
