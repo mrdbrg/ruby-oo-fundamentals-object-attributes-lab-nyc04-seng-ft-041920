@@ -6,7 +6,7 @@ class Person
   
   # GETTERS
   def name
-    
+    @name
   end
   
 end
