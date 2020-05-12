@@ -5,5 +5,8 @@ class Person
   end
   
   # GETTERS
+  def name
+    
+  end
   
 end
