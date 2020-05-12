@@ -5,6 +5,8 @@ class Person
   end
   
   def job=(person_job)
+    
+  end
   
   # GETTERS
   def name
